@@ -16,5 +16,7 @@
 [single_species_classification.ipynb](single_species_classification.ipynb)
 * By looking at time series data produced from 3 different food web structures, the AI learns to classify not only which food web the data comes from but also which individual species and level in the web it came from, even when the data is chaotic.
 
+<img src="pictures/pic4.png" alt="pic" width="200"/>
+
 
 
