@@ -7,6 +7,10 @@
 ![pictures/pic3.png](pictures/pic3.png)
 
 ## Visualizing the data
+[coexistence.ipynb](coexistence.ipynb)
+* Begining to analyze the results of the simulation, I attempt to visualize at which death rates species tend to survive or parish statistically based on the simulations.
+
+![pictures/coexistence.png](pictures/coexistence.png)
 
 ## Analyzing the data
 [foodweb_vs_random.ipynb](foodweb_vs_random.ipynb)
