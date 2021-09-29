@@ -1,5 +1,6 @@
 # Machine learning for chaotic time-series data generated from simple food webs
 
+
 ## Generating the data
 [MakeData.ipynb](MakeData.ipynb): This is where all the data is produced for the machine learning experiment. The calculation was optimized using Python's built-in Runge-Kutta integration to ensure that the time step is always small enough.
 
@@ -19,3 +20,4 @@
 
 <img src="pictures/pic4.png" alt="pic" width="500"/>
 
+Thanks for reading, see the final [report](report.pdf)
