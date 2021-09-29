@@ -1,2 +1,2 @@
-# Food-Web-ML
-Machine learning of various biological food web dynamics produced by non-linear differential equations
+# Machine learning for chaotic time-series data generated from simple food webs
+
